@@ -48,3 +48,7 @@ git branch <name_branch>
 ```sh
 git branch -d <name_branch>
 ```
+Отражение списка действий и сохрнений с визуализацией
+```sh
+git log --graph
+```
