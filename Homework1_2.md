@@ -52,3 +52,7 @@ git branch -d <name_branch>
 ```sh
 git log --graph
 ```
+Слияние веток
+```sh
+git merge <name_branch>
+```
