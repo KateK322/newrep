@@ -32,7 +32,7 @@ git diff
 
 Переключение между разными версиями 
 ```sh
-git checkout
+git checkout <name_branch>
 ```
 # Работа с ветками
 
