@@ -40,6 +40,7 @@ git checkout
 ```sh
 git branch
 ```
-Создание новой ветки
+Добавление новой ветки
 ```sh
-git branch <имя_ветки>```
+git branch <name_branch>
+```
