@@ -48,14 +48,11 @@ git branch <name_branch>
 ```sh
 git branch -d <name_branch>
 ```
-Вызов списка изменений с визуализацией
+Отражение списка действий и сохрнений с визуализацией
 ```sh
 git log --graph
 ```
-
-
-
 Слияние веток
 ```sh
-git merge
+git merge <name_branch>
 ```
